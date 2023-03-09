@@ -24,12 +24,16 @@ function App() {
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
       </div>
-      <p className="read-the-docs">
-        Hello my name is Wilson Ibekason, Okey it seems like everything is woring very well as well and i am so happy about it, good work to every one of you
-        
-      </p>
+      <h1>hello I am wilson Ibekason, And i love to write, Changes has been made to the application, to populate all the available components needed to drive success in a company , and i want to emphasize on these very well </h1>
     </div>
   )
 }
 
 export default App
+// echo "# stream_messanger" >> README.md
+// git init
+// git add .
+// git commit -m "first commit"
+// git branch -M main
+// ggit remote add origin https://wilsonibekason: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@github.com/wilsonibekason/stream_messanger.git/
+// git push -u origin main
